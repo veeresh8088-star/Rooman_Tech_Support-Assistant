@@ -1,4 +1,4 @@
-# Support Assistant — Full Beginner Project
+# Rooman Technologies Support Assistant — AI Agent Project
 
 This expanded project is a beginner-friendly Support Assistant chatbot built with Streamlit and OpenAI.
 It answers user questions using a local FAQ file (`faqs.txt`). For near-matches it uses a lightweight
