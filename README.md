@@ -1,5 +1,8 @@
 # Rooman Technologies Support Assistant — AI Agent Project
 
+Deployed :  https://roomantechsupport-assistantgit-iviuy6snu5x9azbaa2fekk.streamlit.app/
+
+
 This expanded project is a beginner-friendly Support Assistant chatbot built with Streamlit and OpenAI.
 It answers user questions using a local FAQ file (`faqs.txt`). For near-matches it uses a lightweight
 fuzzy search to find relevant FAQ entries; for other cases it uses the OpenAI API with strict instructions
