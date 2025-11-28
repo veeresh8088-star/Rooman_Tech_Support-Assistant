@@ -1,0 +1,19 @@
+Q: What is your refund policy?
+K: refund, refunds, money back, cancel, cancellation
+A: We offer a 7-day refund for all purchases. To initiate a refund, email refunds@example.com with your order number.
+
+Q: How can I reset my password?
+K: reset password, forgot password, change password, password, login issue
+A: Click 'Forgot Password' on the login page and follow the emailed instructions.
+
+Q: What are your working hours?
+K: working hours, timing, open, availability, support hours, business hours
+A: Our support team is available 9 AM – 6 PM, Monday to Saturday.
+
+Q: How do I contact support?
+K: contact, support, help, customer support, reach support, email support
+A: Email us at support@example.com or use the support form.
+
+Q: Can I change my subscription?
+K: subscription, change plan, upgrade, downgrade, modify subscription, billing change
+A: Yes — you can update your subscription on the billing page.
